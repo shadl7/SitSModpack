@@ -8,6 +8,10 @@
 !LICENSE
 !.gitignore
 
+config/jei/worldSettings.cfg
+config/thaumicjei_itemstack_aspects.json
+config/time.history
+config/xaerominimap_entities.json
 config/spark/
 config/tellme/
 config/jei/bookmarks.ini
