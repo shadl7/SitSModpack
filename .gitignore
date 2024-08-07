@@ -8,6 +8,7 @@
 !LICENSE
 !.gitignore
 
+config/splash.properties
 config/jei/worldSettings.cfg
 config/thaumicjei_itemstack_aspects.json
 config/time.history
@@ -15,6 +16,7 @@ config/xaerominimap_entities.json
 config/spark/
 config/tellme/
 config/jei/bookmarks.ini
+config/AppliedEnergistics2/CustomRecipes.cfg
 config/AppliedEnergistics2/items.csv
 config/enderio/recipes/*.pdf
 config/enderio/recipes/**/*.xsd

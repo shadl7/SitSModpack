@@ -60,11 +60,9 @@
     "oreCobalt": {
       "slagColor": "1c5bc1",
       "langKey": [
-        "gregtech:tile.ore_block",
         "tconstruct:tile.tconstruct.ore.cobalt"
       ],
       "output": [
-        "gregtech:meta_nugget:23",
         "tconstruct:nuggets:0"
       ],
       "bloomYieldMinMax": [
@@ -81,7 +79,6 @@
       "langKey": [
         "abyssalcraft:tile.abycopore",
         "factorytech:tile.factorytech:factorytech.ore:0",
-        "gregtech:tile.ore_block",
         "immersiveengineering:tile.immersiveengineering.ore.copper",
         "improvedextraction:item.ore_cluster.copper",
         "libvulpes:material.Copper",
@@ -89,7 +86,6 @@
       ],
       "output": [
         "factorytech:ore_dust:4",
-        "gregtech:meta_nugget:25",
         "immersiveengineering:metal:20",
         "libvulpes:productnugget:4",
         "thaumcraft:nugget:1"
@@ -108,7 +104,6 @@
       "langKey": [
         "abyssalcraft:tile.abygolore",
         "atum:tile.atum.goldOre",
-        "gregtech:tile.ore_block",
         "improvedextraction:item.ore_cluster.gold",
         "minecraft:tile.oreGold",
         "mist:tile.mist.gold_ore"
@@ -132,7 +127,6 @@
         "libvulpes:material.Iridium"
       ],
       "output": [
-        "gregtech:meta_nugget:50",
         "libvulpes:productnugget:10"
       ],
       "bloomYieldMinMax": [
@@ -149,7 +143,6 @@
       "langKey": [
         "abyssalcraft:tile.abyiroore",
         "atum:tile.atum.ironOre",
-        "gregtech:tile.ore_block",
         "improvedextraction:item.ore_cluster.iron",
         "minecraft:tile.oreIron",
         "mist:tile.mist.iron_ore"
@@ -171,13 +164,11 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
-        "gregtech:tile.ore_block",
         "immersiveengineering:tile.immersiveengineering.ore.lead",
         "improvedextraction:item.ore_cluster.lead",
         "nuclearcraft:tile.nuclearcraft.ore.lead"
       ],
       "output": [
-        "gregtech:meta_nugget:55",
         "immersiveengineering:metal:22",
         "thaumcraft:nugget:4"
       ],
@@ -194,13 +185,11 @@
       "slagColor": "e4e5d8",
       "langKey": [
         "factorytech:tile.factorytech:factorytech.ore:1",
-        "gregtech:tile.ore_block",
         "immersiveengineering:tile.immersiveengineering.ore.nickel",
         "improvedextraction:item.ore_cluster.nickel"
       ],
       "output": [
         "factorytech:ore_dust:5",
-        "gregtech:meta_nugget:69",
         "immersiveengineering:metal:24"
       ],
       "bloomYieldMinMax": [
@@ -229,33 +218,13 @@
         15
       ]
     },
-    "orePlatinum": {
-      "slagColor": "55f3ff",
-      "langKey": [
-        "gregtech:tile.ore_block",
-        "improvedextraction:item.ore_cluster.platinum"
-      ],
-      "output": [
-        "gregtech:meta_nugget:80"
-      ],
-      "bloomYieldMinMax": [
-        12,
-        15
-      ],
-      "slagBloomYieldMinMax": [
-        12,
-        15
-      ]
-    },
     "oreSilver": {
       "slagColor": "e8f6fd",
       "langKey": [
-        "gregtech:tile.ore_block",
         "immersiveengineering:tile.immersiveengineering.ore.silver",
         "improvedextraction:item.ore_cluster.silver"
       ],
       "output": [
-        "gregtech:meta_nugget:100",
         "immersiveengineering:metal:23",
         "thaumcraft:nugget:3"
       ],
@@ -289,13 +258,11 @@
       "slagColor": "c3e9ff",
       "langKey": [
         "abyssalcraft:tile.abytinore",
-        "gregtech:tile.ore_block",
         "improvedextraction:item.ore_cluster.tin",
         "libvulpes:material.Tin",
         "nuclearcraft:tile.nuclearcraft.ore.tin"
       ],
       "output": [
-        "gregtech:meta_nugget:112",
         "libvulpes:productnugget:5",
         "thaumcraft:nugget:2"
       ],
@@ -316,7 +283,6 @@
         "nuclearcraft:tile.nuclearcraft.ore.uranium"
       ],
       "output": [
-        "gregtech:meta_nugget:116",
         "immersiveengineering:metal:25"
       ],
       "bloomYieldMinMax": [
