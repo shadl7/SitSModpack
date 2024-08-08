@@ -8,6 +8,8 @@
 !LICENSE
 !.gitignore
 
+config/enderio/recipes/*.pdf
+config/enderio/recipes/examples/
 config/splash.properties
 config/jei/worldSettings.cfg
 config/thaumicjei_itemstack_aspects.json
