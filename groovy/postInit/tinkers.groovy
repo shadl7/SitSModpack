@@ -13,7 +13,9 @@ crafting.shapedBuilder()
     .name('toolstation')
 	.output(item('tconstruct:tooltables', 3))
 	.matrix('P',
+            'C',
             'W')
 	.key('P', item('tconstruct:pattern'))
 	.key('W', item('pyrotech:worktable'))
+	.key('C', ore('cobblestone'))
 	.register()
