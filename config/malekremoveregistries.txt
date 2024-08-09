@@ -24,3 +24,4 @@ enderio:item_stellar_alloy_helmet
 enderio:item_stellar_alloy_leggings
 enderio:item_stellar_alloy_pickaxe
 enderio:item_stellar_alloy_sword
+tconstruct:tools/table/chest/part
