@@ -10,7 +10,7 @@
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "minecraft:nether_star"
+        "id:8": "atum:scarab"
       },
       "ignoresview:1": 0,
       "ismain:1": 0,
@@ -27,7 +27,20 @@
       "visibility:8": "NORMAL"
     }
   },
-  "rewards:9": {},
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "pyrotech:book"
+        }
+      }
+    }
+  },
   "tasks:9": {
     "0:10": {
       "index:3": 0,

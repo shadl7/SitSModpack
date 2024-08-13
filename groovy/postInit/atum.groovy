@@ -1,0 +1,11 @@
+inWorldCrafting.fluidToItem.recipeBuilder()
+        .fluidInput(fluid('lava'), 0f)
+        .input(item('atum:marl'))
+        .output(item('pyrotech:cobblestone', 2))
+        .register()
+
+inWorldCrafting.fluidToItem.recipeBuilder()
+        .fluidInput(fluid('lava'), 0f)
+        .input(item('atum:porphyry'))
+        .output(item('pyrotech:cobblestone', 1))
+        .register()

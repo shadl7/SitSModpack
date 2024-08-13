@@ -1,0 +1,8 @@
+mods.pyrotech.kiln.recipeBuilder()
+    .input(item('atum:alabaster'))
+    .output(item('botania:livingrock'))
+    .burnTime(1600)
+    .failureChance(0.3f)
+    .failureOutput(item('pyrotech:material'))
+    .name('livingrock')
+    .register()

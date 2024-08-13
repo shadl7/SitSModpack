@@ -12,7 +12,7 @@
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "pyrotech:crude_hammer"
+        "id:8": "pyrotech:crude_axe"
       },
       "ignoresview:1": 0,
       "ismain:1": 0,
@@ -36,7 +36,11 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "pyrotech:crude_spear"
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "pyrotech:crude_spear",
+            "orig_meta:3": 0
+          }
         },
         "1:10": {
           "Count:3": 1,
@@ -87,13 +91,23 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "pyrotech:crude_spear"
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "pyrotech:crude_spear",
+            "orig_meta:3": 0
+          }
         },
         "1:10": {
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "pyrotech:crude_shovel"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "pyrotech:crude_pickaxe"
         }
       },
       "taskID:8": "bq_standard:optional_retrieval"

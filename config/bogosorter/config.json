@@ -49,14 +49,6 @@
     {
       "name": "potion",
       "inverted": false
-    },
-    {
-      "name": "gt_circ_config",
-      "inverted": false
-    },
-    {
-      "name": "gt_item_damage",
-      "inverted": false
     }
   ]
 }

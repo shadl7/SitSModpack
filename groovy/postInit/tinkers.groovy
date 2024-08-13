@@ -13,9 +13,18 @@ crafting.shapedBuilder()
     .name('toolstation')
 	.output(item('tconstruct:tooltables', 3))
 	.matrix('P',
-            'C',
             'W')
 	.key('P', item('tconstruct:pattern'))
 	.key('W', item('pyrotech:worktable'))
-	.key('C', ore('cobblestone'))
+	.register()
+
+crafting.remove('tconstruct:smeltery/smeltery_controller')
+crafting.shapedBuilder()
+    .name('smcontroller')
+	.output(item('tconstruct:smeltery_controller'))
+	.matrix('BBB',
+            'BIB',
+			'BBB')
+	.key('I', ore('ingotIron'))
+	.key('B', item('tconstruct:materials'))
 	.register()
